@@ -1,0 +1,10 @@
+package operator;
+
+public class Operator4 {
+    public static void main(String[] args) {
+        int sum3 = 2 * 2 + 3 * 3; // (2*2)+(3*3)
+        int sum4 = (2 * 2) + (3 * 3); // (2*2)+(3*3)
+        System.out.println("int3 = " + sum3); //sum3 = 13
+        System.out.println("int4 = " + sum4); //sum4 = 13
+    }
+}
