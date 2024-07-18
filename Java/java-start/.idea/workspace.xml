@@ -41,8 +41,11 @@
     "Application.Comp2.executor": "Run",
     "Application.CondOp1.executor": "Run",
     "Application.CondOp2.executor": "Run",
+    "Application.CondOpEx.executor": "Run",
     "Application.DistanceEx.executor": "Run",
+    "Application.EvenOdEx.executor": "Run",
     "Application.ExchangeRateEx.executor": "Run",
+    "Application.GradeSwitchEx.executor": "Run",
     "Application.If1.executor": "Run",
     "Application.If2.executor": "Run",
     "Application.If3.executor": "Run",
@@ -51,6 +54,7 @@
     "Application.If6.executor": "Run",
     "Application.Logical1.executor": "Run",
     "Application.Logical2.executor": "Run",
+    "Application.MovieRateEx.executor": "Run",
     "Application.OperationEx2.executor": "Run",
     "Application.OperationEx3.executor": "Run",
     "Application.Operator1.executor": "Run",
@@ -132,7 +136,7 @@
       <updated>1720859199332</updated>
       <workItem from="1720859200468" duration="2526000" />
       <workItem from="1721033953461" duration="2320000" />
-      <workItem from="1721085764517" duration="15004000" />
+      <workItem from="1721085764517" duration="16005000" />
     </task>
     <servers />
   </component>
