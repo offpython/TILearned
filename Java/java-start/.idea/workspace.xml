@@ -56,6 +56,9 @@
     "Application.OperatorAdd1.executor": "Run",
     "Application.OperatorAdd2.executor": "Run",
     "Application.OperatorEx1.executor": "Run",
+    "Application.Switch1.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.Switch3.executor": "Run",
     "Application.Var3.executor": "Run",
     "Application.Var5.executor": "Run",
     "Application.Var6.executor": "Run",
@@ -80,6 +83,7 @@
       <recent name="variable" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cond" />
       <recent name="operator" />
       <recent name="variable" />
     </key>
@@ -122,7 +126,7 @@
       <updated>1720859199332</updated>
       <workItem from="1720859200468" duration="2526000" />
       <workItem from="1721033953461" duration="2320000" />
-      <workItem from="1721085764517" duration="10234000" />
+      <workItem from="1721085764517" duration="11625000" />
     </task>
     <servers />
   </component>
