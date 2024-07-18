@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1f288857-479e-410f-a2b9-a565be0376ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/CondOp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Application.Assign1.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
+    "Application.CondOp1.executor": "Run",
     "Application.If1.executor": "Run",
     "Application.If2.executor": "Run",
     "Application.If3.executor": "Run",
@@ -59,6 +61,7 @@
     "Application.Switch1.executor": "Run",
     "Application.Switch2.executor": "Run",
     "Application.Switch3.executor": "Run",
+    "Application.Switch4.executor": "Run",
     "Application.Var3.executor": "Run",
     "Application.Var5.executor": "Run",
     "Application.Var6.executor": "Run",
@@ -126,7 +129,7 @@
       <updated>1720859199332</updated>
       <workItem from="1720859200468" duration="2526000" />
       <workItem from="1721033953461" duration="2320000" />
-      <workItem from="1721085764517" duration="11625000" />
+      <workItem from="1721085764517" duration="12240000" />
     </task>
     <servers />
   </component>
