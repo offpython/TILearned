@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f288857-479e-410f-a2b9-a565be0376ad" name="Changes" comment="" />
+    <list default="true" id="1f288857-479e-410f-a2b9-a565be0376ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/While2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,11 @@
     "Application.Var7.executor": "Run",
     "Application.VarEx2.executor": "Run",
     "Application.VarEx3.executor": "Run",
+    "Application.While1_1.executor": "Run",
+    "Application.While1_2.executor": "Run",
     "Application.While2_1.executor": "Run",
+    "Application.While2_2.executor": "Run",
+    "Application.While2_3.executor": "Run",
     "Application.While_1.executor": "Run",
     "Application.While_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -138,7 +145,8 @@
       <updated>1720859199332</updated>
       <workItem from="1720859200468" duration="2526000" />
       <workItem from="1721033953461" duration="2320000" />
-      <workItem from="1721085764517" duration="18020000" />
+      <workItem from="1721085764517" duration="19758000" />
+      <workItem from="1721381431090" duration="1896000" />
     </task>
     <servers />
   </component>
