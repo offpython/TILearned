@@ -52,6 +52,7 @@
     "Application.ExchangeRateEx.executor": "Run",
     "Application.For1.executor": "Run",
     "Application.For2.executor": "Run",
+    "Application.ForEx2.executor": "Run",
     "Application.GradeSwitchEx.executor": "Run",
     "Application.If1.executor": "Run",
     "Application.If2.executor": "Run",
@@ -88,6 +89,8 @@
     "Application.While2_1.executor": "Run",
     "Application.While2_2.executor": "Run",
     "Application.While2_3.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
     "Application.While_1.executor": "Run",
     "Application.While_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -108,6 +111,7 @@
       <recent name="variable" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loop.ex" />
       <recent name="loop" />
       <recent name="cond" />
       <recent name="operator" />
@@ -153,7 +157,7 @@
       <workItem from="1720859200468" duration="2526000" />
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
-      <workItem from="1721381431090" duration="5394000" />
+      <workItem from="1721381431090" duration="6160000" />
     </task>
     <servers />
   </component>
