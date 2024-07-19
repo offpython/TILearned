@@ -7,7 +7,7 @@ public class Break1 {
 
         while (true){
             sum = sum + i;
-            if (sum > 10){
+            if (sum > 100000000){
                 System.out.println("합이 10보다 크면 종료.\n i = " + i + ", sum = " + sum);
                 break;
             }
