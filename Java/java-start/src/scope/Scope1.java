@@ -10,5 +10,5 @@ public class Scope1 {
         } // x 생존 종료
         //System.out.println("main x = " + x);
         System.out.println("main m = " + m);
-    }
+    } // m 생존 종료
 }
