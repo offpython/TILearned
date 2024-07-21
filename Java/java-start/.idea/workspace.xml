@@ -77,6 +77,7 @@
     "Application.OperatorAdd2.executor": "Run",
     "Application.OperatorEx1.executor": "Run",
     "Application.Scope1.executor": "Run",
+    "Application.Scope2.executor": "Run",
     "Application.ScoreEx.executor": "Run",
     "Application.Switch1.executor": "Run",
     "Application.Switch2.executor": "Run",
@@ -162,7 +163,7 @@
       <workItem from="1720859200468" duration="2526000" />
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
-      <workItem from="1721381431090" duration="8666000" />
+      <workItem from="1721381431090" duration="9419000" />
     </task>
     <servers />
   </component>
