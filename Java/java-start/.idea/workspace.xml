@@ -80,6 +80,7 @@
     "Application.OperatorAdd1.executor": "Run",
     "Application.OperatorAdd2.executor": "Run",
     "Application.OperatorEx1.executor": "Run",
+    "Application.Scanner1.executor": "Run",
     "Application.Scope1.executor": "Run",
     "Application.Scope2.executor": "Run",
     "Application.Scope3.executor": "Run",
@@ -169,7 +170,7 @@
       <workItem from="1720859200468" duration="2526000" />
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
-      <workItem from="1721381431090" duration="11608000" />
+      <workItem from="1721381431090" duration="12457000" />
     </task>
     <servers />
   </component>
