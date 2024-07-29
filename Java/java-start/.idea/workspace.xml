@@ -44,6 +44,7 @@
     "Application.Casting2.executor": "Run",
     "Application.Casting3.executor": "Run",
     "Application.Casting4.executor": "Run",
+    "Application.ChangeVarEx.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
     "Application.CondOp1.executor": "Run",
@@ -87,6 +88,7 @@
     "Application.ScannerEx2.executor": "Run",
     "Application.ScannerEx3.executor": "Run",
     "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
     "Application.ScannerWhile1.executor": "Run",
     "Application.ScannerWhile2.executor": "Run",
     "Application.ScannerWhile3.executor": "Run",
@@ -133,11 +135,11 @@
       <recent name="variable" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scanner.ex" />
       <recent name="scope" />
       <recent name="loop.ex" />
       <recent name="loop" />
       <recent name="cond" />
-      <recent name="operator" />
     </key>
   </component>
   <component name="RunManager">
@@ -180,7 +182,7 @@
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
       <workItem from="1721381431090" duration="19546000" />
-      <workItem from="1722230260486" duration="1071000" />
+      <workItem from="1722230260486" duration="2568000" />
     </task>
     <servers />
   </component>
