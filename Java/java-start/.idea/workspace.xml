@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f288857-479e-410f-a2b9-a565be0376ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,7 @@
     "Application.ScannerWhile2.executor": "Run",
     "Application.ScannerWhile3.executor": "Run",
     "Application.ScannerWhileEx1.executor": "Run",
+    "Application.ScannerWhileEx2.executor": "Run",
     "Application.Scope1.executor": "Run",
     "Application.Scope2.executor": "Run",
     "Application.Scope3.executor": "Run",
@@ -183,7 +184,7 @@
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
       <workItem from="1721381431090" duration="19546000" />
-      <workItem from="1722230260486" duration="5469000" />
+      <workItem from="1722230260486" duration="5819000" />
     </task>
     <servers />
   </component>
