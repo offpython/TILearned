@@ -95,6 +95,7 @@
     "Application.ScannerWhileEx1.executor": "Run",
     "Application.ScannerWhileEx2.executor": "Run",
     "Application.ScannerWhileEx3.executor": "Run",
+    "Application.ScannerWhileEx4.executor": "Run",
     "Application.Scope1.executor": "Run",
     "Application.Scope2.executor": "Run",
     "Application.Scope3.executor": "Run",
@@ -185,7 +186,7 @@
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
       <workItem from="1721381431090" duration="19546000" />
-      <workItem from="1722230260486" duration="6986000" />
+      <workItem from="1722230260486" duration="7820000" />
     </task>
     <servers />
   </component>
