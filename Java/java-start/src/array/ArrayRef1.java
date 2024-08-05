@@ -12,7 +12,7 @@ public class ArrayRef1 {
         student[3] = 60;
         student[4] = 50;
 
-        //참조값 확인 -> [I@a09ee92 => I int @ 16진수 
+        //참조값 확인 -> [I@a09ee92 => I int @ 16진수
         System.out.println(student);
 
         //변수 값 사용
