@@ -1,6 +1,6 @@
 package array;
 
-public class ArrayRef1 {
+public class Array1Ref1 {
     public static void main(String[] args) {
         int[] student; //배열 변수 선언
         student = new int[5];  //배열 생성
