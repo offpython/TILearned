@@ -41,6 +41,7 @@
     "Application.ArrayDi1.executor": "Run",
     "Application.ArrayDi2.executor": "Run",
     "Application.ArrayDi3.executor": "Run",
+    "Application.ArrayDi4.executor": "Run",
     "Application.ArrayRef1.executor": "Run",
     "Application.ArrayRef2.executor": "Run",
     "Application.ArrayRef3.executor": "Run",
@@ -195,7 +196,7 @@
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
       <workItem from="1721381431090" duration="19546000" />
-      <workItem from="1722230260486" duration="22236000" />
+      <workItem from="1722230260486" duration="22908000" />
     </task>
     <servers />
   </component>
