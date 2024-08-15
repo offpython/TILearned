@@ -63,6 +63,7 @@
     "Application.Continue1.executor": "Run",
     "Application.DistanceEx.executor": "Run",
     "Application.DoWhile1.executor": "Run",
+    "Application.EnhancedFor1.executor": "Run",
     "Application.EvenOdEx.executor": "Run",
     "Application.ExchangeRateEx.executor": "Run",
     "Application.For1.executor": "Run",
@@ -196,7 +197,7 @@
       <workItem from="1721033953461" duration="2320000" />
       <workItem from="1721085764517" duration="19758000" />
       <workItem from="1721381431090" duration="19546000" />
-      <workItem from="1722230260486" duration="22908000" />
+      <workItem from="1722230260486" duration="24827000" />
     </task>
     <servers />
   </component>
